@@ -1,0 +1,18 @@
+recipe color (#steps)(direction)
+	steps=0
+	repeat
+	if steps < (#steps)
+	|(direction)
+	|steps+1
+
+down 1
+color (7 steps)(down)
+right 2
+color (7 steps)(up)
+right 2
+color (7 steps)(down)
+right 2
+color (7 steps)(up)
+right 2
+color (7 steps)(down)
+right 1

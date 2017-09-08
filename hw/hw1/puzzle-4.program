@@ -1,0 +1,13 @@
+recipe color
+	getColor
+	save
+	down 1
+	setColor
+	right 2
+
+down 4
+right 1
+color
+up 1
+right 1
+color

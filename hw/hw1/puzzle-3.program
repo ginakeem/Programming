@@ -1,0 +1,8 @@
+down 2
+getColor
+save
+down 3
+right 2
+setColor
+right 2
+up 1

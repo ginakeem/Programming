@@ -1,0 +1,15 @@
+recipe color (direction)
+	direction
+if getColor red
+| right 2
+repeat if getColor not red
+|color (down)
+repeat if getColor not red
+|color (up)
+repeat if getColor not red
+|color (down)
+repeat if getColor not red
+|color (up)
+repeat if getColor not red
+|color (down)
+right 1

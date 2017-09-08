@@ -1,0 +1,18 @@
+right 1
+getColor
+if getColor Red
+| up 3
+else if getColor Blue
+| down 3
+getColor
+if getColor Red
+| left 1
+| remember getColor
+	| if getColor Red, Red
+		| up 1
+	| else if getColor Blue, Red
+		| down 1
+	| if getColor Red, Blue
+		| up 1
+else if getColor Blue
+| right 1
