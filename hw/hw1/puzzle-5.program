@@ -1,9 +1,8 @@
 recipe color
+	right 2
 	if getColor blue
 	| down
 	if getColor red
 	|up
-
-right 2
 color 3
 right 3
