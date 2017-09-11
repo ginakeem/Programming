@@ -1,15 +1,14 @@
 recipe color (direction)
+	repeat (direction) if getColor is not Red
 	direction
-if getColor red
-| right 2
-repeat if getColor not red
-|color (down)
-repeat if getColor not red
-|color (up)
-repeat if getColor not red
-|color (down)
-repeat if getColor not red
-|color (up)
-repeat if getColor not red
-|color (down)
+	if getColor red
+	| right 2
+
+color (down)
+color (up)
+color (down)
+color (up)
+color (down)
+color (up)
+color (down)
 right 1
