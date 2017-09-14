@@ -1,0 +1,11 @@
+What does the rect function do?
+The rect function creates a rectangle with the given information.
+
+What does the rectMode function do?
+The rectMode function tells the rect function what kind of information it’s going to give, and how to use it. 
+
+What is a pixel?
+A pixel is a coordinate, 2 numbers, an x and a y value.
+
+What is HSB?
+Hue, saturation, brightness.
