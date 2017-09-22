@@ -1,0 +1,16 @@
+background(255);
+strokeWeight(3);
+colorMode(HSB);
+
+
+var lastMouseX = 0;
+var lastMouseY = 0;
+
+while(true){
+  var r = random(30,60);
+  stroke(random(255), random(255), 255);
+  fill(255, random(255), random(255));
+	ellipse(lastMouseX, lastMouseY, r, r);
+  lastMouseX=mouseX;
+  lastMouseY=mouseY;
+}
