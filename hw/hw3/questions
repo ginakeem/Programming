@@ -1,0 +1,11 @@
+What is the difference between a for loop and a while loop?
+A while loop will repeat the function forever and ever for one assignment. A for loop will repeat only when certain specifications are met.
+
+What are the four parts of a for loop? What do they do?
+Starting the loop: what kind of loop, and why it loops.
+Initialize variable: variable equals something.
+Test for exit condition: how to exit the loop.
+Incrementation: affecting the variable in what way.
+
+What does "nested" mean in the context of nested loops?
+Nested means loop within a loop.
