@@ -25,10 +25,11 @@ while(direction == 1){
   }
 }
 
+location = 0;
 while(direction == 0){
 	background(255);
   fill(255);
-	ellipse(100+location,100,20,20);
+	ellipse(location,100,20,20);
 	location = location + 10;
   if(location>=240){
   	direction = 1-direction;
