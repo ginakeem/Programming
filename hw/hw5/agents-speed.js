@@ -43,8 +43,8 @@ function activateAgent(agent) {
   }
 
   if (agent.state == 2) {
-    agent.x += cos(agent.angle) / 20;
-    agent.y += sin(agent.angle) / 20;
+    agent.x += cos(agent.angle) / 1;
+    agent.y += sin(agent.angle) / 1;
 
     if (agent.x > width) {
       agent.x = 0;
