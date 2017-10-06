@@ -1,4 +1,4 @@
-var sizes = [4, 9, 10, 5, 112,95,40,38];
+var sizes = [4, 9, 10, 5, 112, 95, 40, 38];
 
 function setup() {
   createCanvas(1000, 600);
