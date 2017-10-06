@@ -13,6 +13,6 @@ function draw() {
 	
 	for(var i = 0; i < shade.length; i++){
 		fill(shade[i],100,100);
-		rect(i*width/5, 0, width/5, height);
+		rect(i*width/shade.length, 0, width/shade.length, height);
 	}
 }
