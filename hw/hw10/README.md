@@ -40,3 +40,4 @@ http://www.instructables.com/id/Programmable-LED-Firefly-Jar/
 http://www.instructables.com/id/Interactive-Ambient-Light/
 http://www.instructables.com/id/Interactive-Geodesic-LED-Dome/
 http://www.instructables.com/id/Interactive-Thunder-and-Lightning-Cloud/
+http://www.instructables.com/id/Jar-of-Fireflies/
