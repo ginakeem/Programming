@@ -41,3 +41,4 @@ http://www.instructables.com/id/Interactive-Ambient-Light/
 http://www.instructables.com/id/Interactive-Geodesic-LED-Dome/
 http://www.instructables.com/id/Interactive-Thunder-and-Lightning-Cloud/
 http://www.instructables.com/id/Jar-of-Fireflies/
+https://www.tweaking4all.com/hardware/arduino/adruino-led-strip-effects/
